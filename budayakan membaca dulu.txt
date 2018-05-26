@@ -1,0 +1,18 @@
+jalankan file python di terminal kali linux
+
+$python scanjoomla.py www.site.com (enter)
+
+
+
+NB: aku contohin web http://camarapraiagrande.sp.gov.br
+
+contoh dork "gov.br/administrator"  (kembangin lagi dorknya)
+disarankan pake search engine https://www.bing.com (jangan mbah gugel mulu, kasian kecapekan nyari arsip hehe..)
+
+contoh nge Run tools nya :
+
+$python scanjoomla.py http://camarapraiagrande.sp.gov.br  (enter)
+
+tinggal nunggu vuln nya di bagian apa trus di hajarnya pake methode POC joomla yg mana
+
+(belum tau ya POC joomla apa aja :v DERITA LOE wkwkwkwk)
